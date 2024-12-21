@@ -2,7 +2,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra
 
 # Target executable name
-TARGET = lab03
+TARGET = lab
 
 # Source files
 SOURCES = lab03.c
